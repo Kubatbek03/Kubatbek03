@@ -20,3 +20,4 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-Kubatbek03&style=flat-square&color=red" alt=""/>
 </div>
+![Waynerv's github stats](https://github-readme-stats.vercel.app/api?username=Kubatbek03&show_icons=true)
