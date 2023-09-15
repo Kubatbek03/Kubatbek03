@@ -6,7 +6,7 @@
 - Буду рад дельному совету 
 - Работаю на проект
 
-- <div id="badges" align="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/Kubatbek/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
   </a>
